@@ -4,7 +4,7 @@
   <url>
     <loc>https://aipioneershark.com/How-to-subscribe-to-Claude-3.html</loc>
     
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://aipioneershark.com/How-to-Use-Wildcard.html</loc>
     
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aipioneershark.com/Free-AWS-Cloud-Server-Registration.html</loc>
+    
+    <lastmod>2024-09-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://aipioneershark.com/</loc>
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,21 +57,28 @@
   
   <url>
     <loc>https://aipioneershark.com/tags/Wildcard/</loc>
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aipioneershark.com/tags/chatGPT/</loc>
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aipioneershark.com/tags/Claude3/</loc>
-    <lastmod>2024-09-14</lastmod>
+    <lastmod>2024-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aipioneershark.com/tags/AWS/</loc>
+    <lastmod>2024-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
