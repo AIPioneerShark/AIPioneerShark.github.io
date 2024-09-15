@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>遇到“ChatGPT无法登录，提示我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系”如何解决？</title>
+      <link href="/Troubleshooting-ChatGPT-Subscription-Issues-Suspicious-Login-and-Payment-Problems.html"/>
+      <url>/Troubleshooting-ChatGPT-Subscription-Issues-Suspicious-Login-and-Payment-Problems.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>其他精选文章</strong></p><table><thead><tr><th>类别</th><th>教程</th></tr></thead><tbody><tr><td>Claude</td><td><a href="https://lcab-ljj.github.io/2024/08/14/how-to-update-Cluade3/">如何解决Claude账号被封，及Claude3使用方法</a>、<a href="https://lcab-ljj.github.io/2024/08/08/claude3/">【重要】如何注册Claude3？</a></td></tr><tr><td>Sora</td><td><a href="https://lcab-ljj.github.io/2024/08/19/the-only-way-to-use-sora/">【保姆级】体验Sora模型的官方途径 </a>、<a href="https://lcab-ljj.github.io/2024/07/18/Sora/">【精华】4000字搞懂sora！</a></td></tr><tr><td>ChatGPT</td><td><a href="https://lcab-ljj.github.io/2024/08/16/how-to-register-chatgpt-without-phone/">【包教包会】国内ChatGPT账号注册教程</a>、<a href="https://lcab-ljj.github.io/2024/08/07/registration-for-ChatGPT/">【绝对管用】教你一键注册官方GPT账号！</a></td></tr><tr><td>Onlyfans</td><td><a href="https://lcab-ljj.github.io/2024/07/26/%E6%B3%A8%E5%86%8COnlyfans/">【推荐】2024年最新Onlyfans注册教程</a>、<a href="https://lcab-ljj.github.io/2024/07/29/Onlyfans%E6%90%9C%E7%B4%A2/">【必看】Onlyfans如何搜索博主？</a>、<a href="https://lcab-ljj.github.io/2024/07/31/Onlyfans%E5%B9%B4%E9%BE%84%E9%AA%8C%E8%AF%81/">Onlyfans年龄认证</a></td></tr><tr><td>Midjourney</td><td><a href="https://lcab-ljj.github.io/2024/07/30/midjourney%E6%95%99%E7%A8%8B/">【推荐】midjourney注册方式</a></td></tr><tr><td>Poe</td><td><a href="https://lcab-ljj.github.io/2024/08/05/Poe%E8%AE%A2%E9%98%85/">【保姆级】Poe订阅问题看这一篇就够了</a></td></tr><tr><td>Suno</td><td><a href="https://lcab-ljj.github.io/2024/08/05/Suno%E8%AE%A2%E9%98%85/">【推荐】Suno用法和订阅一文详解！</a></td></tr><tr><td>其他</td><td><a href="https://lcab-ljj.github.io/2024/08/07/Overleaf/">【一看就会】Overleaf升级保姆级教程</a>、<a href="https://lcab-ljj.github.io/2024/08/15/how-to-subscribe-youtube-premium/">【保姆级】如何订阅Youtube Premium？</a>、<a href="https://lcab-ljj.github.io/archives/">更多精彩</a></td></tr></tbody></table><blockquote><p><strong>【重要】推荐使用 Wildcard虚拟信用卡订阅GPT、Onlyfans等服务，价格更便宜、卡片有效期更长、支持的服务更多，具体教程请查看：<a href="https://aipioneershark.com/How-to-Use-Wildcard.html">Wildcard教程</a></strong></p></blockquote><hr><h2 id="1-问题描述"><a href="#1-问题描述" class="headerlink" title="1. 问题描述"></a>1. 问题描述</h2><p>之前本来已经连续稳定使用ChatGPT好几个月了，但是今天尝试登录ChatGPT的时候，却提示：<strong>我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系</strong>。</p><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/q1.jpg"></p><p>此外，我还在网上看到了一些相关的消息，据说是最近openai在大规模封号</p><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/q2.jpg"></p><p>还有以下这些也是经常遇到的问题：</p><ul><li>Your credit card was declined.Try paying with a debit card instead.</li><li>您的信用卡被拒绝了。请尝试用借记卡支付。</li><li>你的卡已被拒绝。</li><li>您的金融卡已被拒绝。</li><li>您拒绝了。请尝试用签账卡支付。</li><li>我们未能验证您的支付方式。请选择另一支付方式并重试。</li></ul><h2 id="2-尝试的解决方法"><a href="#2-尝试的解决方法" class="headerlink" title="2. 尝试的解决方法"></a>2. 尝试的解决方法</h2><p>首先，我确信我的银行卡中余额充足，并且卡本身没有任何问题。</p><p>因此，问题可能出在代理或浏览器上。</p><p>我尝试更换浏览器，从Chrome切换到Edge，但这并没有解决问题。之后，我又尝试更换了多个代理服务器，包括美国、新加坡、韩国和日本等，但仍<strong>未能找到解决办法</strong>。</p><h2 id="3-最终的解决方案"><a href="#3-最终的解决方案" class="headerlink" title="3. 最终的解决方案"></a>3. 最终的解决方案</h2><p>经过一系列尝试后，都没有解决我的问题。</p><p>最后，我突然发现我所使用的 <a href="https://bewildcard.com/i/AIXS"><strong>wildcard</strong></a> 有专门为OpenAI设计的浏览器，于是试了一下</p><p>PS：如果你需要手把手教程的话，可以看这篇文章：<a href="https://aipioneershark.com/How-to-Use-Wildcard.html">ChatGPT专用浏览器</a></p><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/q3.jpg"></p><p>最终，利用ChatGPT专用浏览器，我成功使用上了ChatGPT</p><p><img src="https://jjdph.oss-cn-beijing.aliyuncs.com/q4.jpg"></p><h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4. 总结"></a>4. 总结</h2><p>在经历了一系列登录问题和尝试各种解决方法后，最终发现使用为<strong>OpenAI特别设计的Wildcard浏览器</strong>可以成功解决问题。</p><blockquote><p>参考文章：<a href="https://aipioneershark.com/Troubleshooting-ChatGPT-Subscription-Issues-Suspicious-Login-and-Payment-Problems.html">遇到“ChatGPT无法登录，提示我们检测到可疑的登录行为，将阻止进一步的尝试。请与管理员联系”如何解决？ | AI小鲨</a></p></blockquote><blockquote><p>参考文章：</p><ol><li><a href="https://new.qq.com/rain/a/20230728A07DV600">报告丨清华大学：从ChatGPT到AIGC发展（近200页PPT）</a></li><li><a href="https://cloud.tencent.com/developer/article/2427851">AIGC (AI-Generated Content) 技术深度探索：现状、挑战与未来愿景</a></li><li><a href="https://hub.baai.ac.cn/view/35723">北大最新综述精读：RAG在AIGC中的前世今生，覆盖300篇论文！</a></li><li><a href="https://blog.csdn.net/CVHub/article/details/130253848">《万字长文带你解读AIGC》系列之技术篇</a></li><li><a href="https://www.36kr.com/p/2706409983424389">36氪研究院｜2024年AIGC行业研究：多模态大模型与商业应用</a></li></ol></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ChatGPT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【包教包会】怎么订阅GPT4o？GPT-4o官网全网最详细订阅指南</title>
       <link href="/how-to-register-on-ChatGPT4o.html"/>
       <url>/how-to-register-on-ChatGPT4o.html</url>
