@@ -612,14 +612,14 @@
   </url>
   
   <url>
-    <loc>https://aipioneershark.com/tags/Wildcard/</loc>
+    <loc>https://aipioneershark.com/tags/Claude/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aipioneershark.com/tags/Claude/</loc>
+    <loc>https://aipioneershark.com/tags/Wildcard/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -641,6 +641,13 @@
   
   <url>
     <loc>https://aipioneershark.com/tags/AWS/</loc>
+    <lastmod>2024-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://aipioneershark.com/tags/Google-play/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -794,13 +801,6 @@
   </url>
   
   <url>
-    <loc>https://aipioneershark.com/tags/Youtube-Premium/</loc>
-    <lastmod>2024-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aipioneershark.com/tags/Spotify%E5%BF%AB%E9%80%9F%E6%B3%A8%E5%86%8C/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -822,6 +822,13 @@
   </url>
   
   <url>
+    <loc>https://aipioneershark.com/tags/Youtube-Premium/</loc>
+    <lastmod>2024-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://aipioneershark.com/tags/%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -829,14 +836,14 @@
   </url>
   
   <url>
-    <loc>https://aipioneershark.com/tags/Apple-ID/</loc>
+    <loc>https://aipioneershark.com/tags/Github-Copilot/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aipioneershark.com/tags/Github-Copilot/</loc>
+    <loc>https://aipioneershark.com/tags/Apple-ID/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -886,13 +893,6 @@
   
   <url>
     <loc>https://aipioneershark.com/tags/ChatGPT4o/</loc>
-    <lastmod>2024-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://aipioneershark.com/tags/Google-play/</loc>
     <lastmod>2024-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
